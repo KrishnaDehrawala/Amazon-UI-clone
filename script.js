@@ -1,0 +1,6 @@
+// let boxes4=document.querySelector(".boxes4")
+// let boxes3=document.querySelector(".boxes3")
+// let boxes2=document.querySelector(".boxes2")
+// boxes4.remove()
+// boxes3.remove()
+// boxes2.remove()

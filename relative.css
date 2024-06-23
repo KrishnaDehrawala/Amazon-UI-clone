@@ -1,0 +1,1263 @@
+@media screen and (max-width:550px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        height: 8rem;
+    }
+
+    .languages {
+        margin-right: 6rem;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 8rem;
+    }
+
+    .logo {
+        background-image: url('Amazon-Logo.png');
+        height: 50px;
+        width: 8rem;
+        background-size: cover;
+        border-radius: 1rem;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 20vw;
+    }
+
+    .nav-cart {
+        position: relative;
+        bottom: 8.7rem;
+        left: 9.9rem;
+    }
+
+    .nav-search {
+        width: 23.5rem;
+        position: relative;
+        top: 0.9rem;
+        height: 9rem;
+    }
+
+    .nav-address {
+        position: relative;
+        top: 5.5rem;
+        right: 9.5rem;
+    }
+
+    .nav-returns-orders {
+        position: relative;
+        top: -1.1rem;
+        left: 9.5rem;
+    }
+
+    .search-select {
+        height: 2rem;
+    }
+
+    .nav-sprit {
+        height: 15rem;
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
+
+    .republic-sale {
+        display: none;
+    }
+
+    .nav-left {
+        margin: unset;
+    }
+
+    .mini-tv {
+        margin: auto;
+    }
+
+    .sell {
+        margin: auto;
+    }
+
+    .best-seller {
+        margin: unset;
+        text-align: end;
+    }
+
+    .today-deals {
+        margin: unset;
+    }
+
+    .mobiles {
+        margin: auto;
+    }
+
+    .electronics {
+        margin: auto;
+    }
+
+    .prime-div {
+        text-align: end;
+        margin: unset;
+    }
+
+    .gift {
+        margin: unset;
+    }
+
+    .services {
+        margin: auto;
+    }
+
+    .releases {
+        margin: auto;
+    }
+
+    .home-kitchen {
+        margin: unset;
+        text-align: end;
+    }
+
+    .back-image {
+        background-image: url('a-back.png');
+        height: 125%;
+        width: 50rem;
+        background-position: center;
+    }
+
+    .horizontal-box {
+        height: 103rem;
+        background-color: #FFFFFF;
+        margin: auto;
+        padding: 10px 20px;
+        width: 19rem
+    }
+
+    .flat-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .today-deals1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 19rem;
+    }
+
+    .footer-descline {
+        height: 15rem;
+        background-color: #131A22;
+        margin-top: 30px;
+        padding: 30px 0px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .descitem-row-gap1 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap2 {
+        height: 34.6px;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap3 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap4 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .flex-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 1.5rem;
+        flex-direction: column;
+        height: 106rem;
+        align-items: center;
+    }
+
+    .countries-lists {
+        text-decoration: none;
+        list-style: none;
+        margin-left: 18px;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: 24rem;
+        column-gap: 1.6rem;
+    }
+
+    .footer {
+        height: 863px;
+        background-color: #232f3e;
+    }
+
+    .footer-countries {
+        margin: 0px;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        height: 8rem;
+    }
+
+    .languages {
+        margin-right: 6rem;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 8rem;
+    }
+
+    .logo {
+        background-image: url('Amazon-Logo.png');
+        height: 50px;
+        width: 8rem;
+        background-size: cover;
+        border-radius: 1rem;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 20vw;
+    }
+
+    .nav-cart {
+        position: relative;
+        bottom: 8.7rem;
+        left: 9.4rem;
+    }
+
+    .nav-search {
+        width: 21.5rem;
+        position: relative;
+        top: 0.9rem;
+        height: 9rem;
+    }
+
+    .nav-address {
+        position: relative;
+        top: 5.5rem;
+        right: 8.5rem;
+    }
+
+    .nav-returns-orders {
+        position: relative;
+        top: -1.1rem;
+        left: 8.5rem;
+    }
+
+    .search-select {
+        height: 2rem;
+    }
+
+    .back-image {
+        background-image: url('a-back.png');
+        height: 125%;
+        width: 40rem;
+        background-position: center;
+    }
+
+    .horizontal-box {
+        height: 103rem;
+        background-color: #FFFFFF;
+        margin: auto;
+        padding: 10px 20px;
+        width: 19rem
+    }
+
+    .flat-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .today-deals1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 19rem
+    }
+
+    .footer-descline {
+        height: 15rem;
+        background-color: #131A22;
+        margin-top: 30px;
+        padding: 30px 0px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .descitem-row-gap1 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap2 {
+        height: 34.6px;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap3 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap4 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .flex-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 1.5rem;
+        flex-direction: column;
+        height: 106rem;
+        align-items: center;
+    }
+
+    .countries-lists {
+        text-decoration: none;
+        list-style: none;
+        margin-left: 18px;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: 24rem;
+        column-gap: 1.6rem;
+    }
+
+    .footer {
+        height: 863px;
+        background-color: #232f3e;
+    }
+
+    .footer-countries {
+        margin: 0px;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        height: 8rem;
+    }
+
+    .languages {
+        margin-right: 6rem;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 8rem;
+    }
+
+    .logo {
+        background-image: url('Amazon-Logo.png');
+        height: 50px;
+        width: 8rem;
+        background-size: cover;
+        border-radius: 1rem;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 20vw;
+    }
+
+    .nav-cart {
+        position: relative;
+        bottom: 8.7rem;
+        left: 42vw;
+    }
+
+    .nav-search {
+        width: 96vw;
+        position: relative;
+        top: 0.9rem;
+        height: 9rem;
+    }
+
+    .nav-address {
+        position: relative;
+        top: 5.5rem;
+        right: 38vw;
+    }
+
+    .nav-returns-orders {
+        position: relative;
+        top: -1.1rem;
+        left: 39vw;
+    }
+
+    .search-select {
+        height: 2rem;
+    }
+
+    .republic-sale {
+        display: none;
+    }
+
+    .back-image {
+        background-image: url('a-back.png');
+        height: 125%;
+        width: 40rem;
+        background-position: center;
+    }
+
+    .horizontal-box {
+        height: 103rem;
+        background-color: #FFFFFF;
+        margin: auto;
+        padding: 10px 20px;
+        width: 19rem
+    }
+
+    .flat-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .today-deals1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 19rem
+    }
+
+    .footer-descline {
+        height: 15rem;
+        background-color: #131A22;
+        margin-top: 30px;
+        padding: 30px 0px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .descitem-row-gap1 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap2 {
+        height: 34.6px;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap3 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap4 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .flex-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 1.5rem;
+        flex-direction: column;
+        height: 106rem;
+        align-items: center;
+    }
+
+    .countries-lists {
+        text-decoration: none;
+        list-style: none;
+        margin-left: 18px;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: 24rem;
+        column-gap: 1.6rem;
+    }
+
+    .footer {
+        height: 863px;
+        background-color: #232f3e;
+    }
+
+    .footer-countries {
+        margin: 0px;
+    }
+}
+
+@media screen and (max-width:360px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        height: 8rem;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 8rem;
+    }
+
+    .languages {
+        margin-right: 6rem;
+    }
+
+    .logo {
+        background-image: url('Amazon-Logo.png');
+        height: 50px;
+        width: 8rem;
+        background-size: cover;
+        border-radius: 1rem;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 19vw;
+    }
+
+    .nav-cart {
+        position: relative;
+        bottom: 8.7rem;
+        left: 42vw;
+    }
+
+    .nav-search {
+        width: 96vw;
+        position: relative;
+        top: 0.9rem;
+        height: 9rem;
+    }
+
+    .nav-address {
+        position: relative;
+        top: 5.5rem;
+        right: 38vw;
+    }
+
+    .nav-returns-orders {
+        position: relative;
+        top: -1.1rem;
+        left: 39vw;
+    }
+
+    .search-select {
+        height: 2rem;
+    }
+
+    .republic-sale {
+        display: none;
+    }
+
+    .back-image {
+        background-image: url('a-back.png');
+        height: 125%;
+        width: 40rem;
+        background-position: center;
+    }
+
+    .horizontal-box {
+        height: 103rem;
+        background-color: #FFFFFF;
+        margin: auto;
+        padding: 10px 20px;
+        width: 19rem
+    }
+
+    .flat-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .today-deals1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 19rem
+    }
+
+    .footer-descline {
+        height: 15rem;
+        background-color: #131A22;
+        margin-top: 30px;
+        padding: 30px 0px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .descitem-row-gap1 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap2 {
+        height: 34.6px;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap3 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap4 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .flex-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 1.5rem;
+        flex-direction: column;
+        height: 106rem;
+        align-items: center;
+    }
+
+    .countries-lists {
+        text-decoration: none;
+        list-style: none;
+        margin-left: 18px;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: 24rem;
+        column-gap: 1.6rem;
+    }
+
+    .footer {
+        height: 863px;
+        background-color: #232f3e;
+    }
+
+    .footer-countries {
+        margin: 0px;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        height: 8rem;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 7rem;
+    }
+
+    .languages {
+        margin-right: 10rem;
+    }
+
+    .logo {
+        background-image: url('Amazon-Logo.png');
+        height: 50px;
+        width: 8rem;
+        background-size: cover;
+        border-radius: 1rem;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 19vw;
+    }
+
+    .nav-cart {
+        position: relative;
+        bottom: 8.7rem;
+        left: 42vw;
+    }
+
+    .nav-search {
+        width: 96vw;
+        position: relative;
+        top: 0.9rem;
+        height: 9rem;
+    }
+
+    .nav-address {
+        position: relative;
+        top: 5.5rem;
+        right: 38vw;
+    }
+
+    .nav-returns-orders {
+        position: relative;
+        top: -1.1rem;
+        left: 39vw;
+    }
+
+    .search-select {
+        height: 2rem;
+    }
+
+    .republic-sale {
+        display: none;
+    }
+
+    .back-image {
+        background-image: url('a-back.png');
+        height: 125%;
+        width: 40rem;
+        background-position: center;
+    }
+
+    .horizontal-box {
+        height: 103rem;
+        background-color: #FFFFFF;
+        margin: auto;
+        padding: 10px 20px;
+        width: 19rem
+    }
+
+    .flat-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .today-deals1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 19rem
+    }
+
+    .footer-descline {
+        height: 15rem;
+        background-color: #131A22;
+        margin-top: 30px;
+        padding: 30px 0px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .descitem-row-gap1 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap2 {
+        height: 34.6px;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap3 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap4 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .flex-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 1.5rem;
+        flex-direction: column;
+        height: 106rem;
+        align-items: center;
+    }
+
+    .countries-lists {
+        text-decoration: none;
+        list-style: none;
+        margin-left: 6px;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: 22rem;
+        column-gap: 0.6rem;
+    }
+
+    .footer {
+        height: 863px;
+        background-color: #232f3e;
+    }
+
+    .footer-countries {
+        margin: 0px;
+    }
+
+    .footer-lists {
+        list-style: none;
+        font-size: small;
+    }
+}
+
+@media screen and (max-width:360px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        height: 8rem;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 7rem;
+    }
+
+    .languages {
+        margin-right: 10rem;
+    }
+
+    .logo {
+        background-image: url('Amazon-Logo.png');
+        height: 50px;
+        width: 8rem;
+        background-size: cover;
+        border-radius: 1rem;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 19vw;
+    }
+
+    .nav-cart {
+        position: relative;
+        bottom: 8.7rem;
+        left: 42vw;
+    }
+
+    .nav-search {
+        width: 96vw;
+        position: relative;
+        top: 0.9rem;
+        height: 9rem;
+    }
+
+    .nav-address {
+        position: relative;
+        top: 5.5rem;
+        right: 38vw;
+    }
+
+    .nav-returns-orders {
+        position: relative;
+        top: -1.1rem;
+        left: 39vw;
+    }
+
+    .search-select {
+        height: 2rem;
+    }
+
+    .republic-sale {
+        display: none;
+    }
+
+    .back-image {
+        background-image: url('a-back.png');
+        height: 125%;
+        width: 50rem;
+        background-position: center;
+    }
+
+    .horizontal-box {
+        height: 103rem;
+        background-color: #FFFFFF;
+        margin: auto;
+        padding: 10px 20px;
+        width: 19rem
+    }
+
+    .flat-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .today-deals1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 19rem
+    }
+
+    .footer-descline {
+        height: 15rem;
+        background-color: #131A22;
+        margin-top: 30px;
+        padding: 30px 0px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .descitem-row-gap1 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap2 {
+        height: 34.6px;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap3 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .descitem-row-gap4 {
+        height: 4.85rem;
+        width: 30.34px;
+        padding: 0px 10px
+    }
+
+    .flex-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 1.5rem;
+        flex-direction: column;
+        height: 106rem;
+        align-items: center;
+    }
+
+    .countries-lists {
+        text-decoration: none;
+        list-style: none;
+        margin-left: 6px;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        width: 22rem;
+        column-gap: 0.6rem;
+    }
+
+    .footer {
+        height: 863px;
+        background-color: #232f3e;
+    }
+
+    .footer-countries {
+        margin: 0px;
+    }
+
+    .footer-lists {
+        list-style: none;
+        font-size: small;
+    }
+}
+
+@media screen and (width:800px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        height: 8rem;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 7rem;
+    }
+
+    .logo {
+        background-image: url('Amazon-Logo.png');
+        height: 50px;
+        width: 8rem;
+        background-size: cover;
+        border-radius: 1rem;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 19vw;
+    }
+
+    .nav-cart {
+        position: relative;
+        bottom: 8.7rem;
+        left: 42vw;
+    }
+
+    .nav-search {
+        width: 96vw;
+        position: relative;
+        top: 0.9rem;
+        height: 9rem;
+    }
+
+    .nav-address {
+        position: relative;
+        top: 5.5rem;
+        right: 38vw;
+    }
+
+    .nav-returns-orders {
+        position: relative;
+        top: -1.1rem;
+        left: 39vw;
+    }
+
+    .search-select {
+        height: 2rem;
+    }
+
+    .republic-sale {
+        display: none;
+    }
+
+    .back-image {
+        background-image: url('a-back.png');
+        height: 125%;
+        width: 50rem;
+        background-position: center;
+    }
+
+    .horizontal-box {
+        height: 103rem;
+        background-color: #FFFFFF;
+        margin: auto;
+        padding: 10px 20px;
+        width: 19rem
+    }
+
+    .flat-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .today-deals1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 19rem
+    }
+
+    .flex-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        height: 53rem;
+        margin-bottom: 1.5rem;
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 29vw;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 20rem;
+    }
+}
+@media screen and (height:1080px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        height: 8rem;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 7rem;
+    }
+
+    .logo {
+        background-image: url('Amazon-Logo.png');
+        height: 50px;
+        width: 8rem;
+        background-size: cover;
+        border-radius: 1rem;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 19vw;
+    }
+
+    .nav-cart {
+        position: relative;
+        bottom: 8.7rem;
+        left: 42vw;
+    }
+
+    .nav-search {
+        width: 96vw;
+        position: relative;
+        top: 0.9rem;
+        height: 9rem;
+    }
+
+    .nav-address {
+        position: relative;
+        top: 5.5rem;
+        right: 38vw;
+    }
+
+    .nav-returns-orders {
+        position: relative;
+        top: -1.1rem;
+        left: 39vw;
+    }
+
+    .search-select {
+        height: 2rem;
+    }
+
+    .republic-sale {
+        display: none;
+    }
+
+    .back-image {
+        background-image: url('a-back.png');
+        height: 125%;
+        width: 50rem;
+        background-position: center;
+    }
+
+    .horizontal-box {
+        height: 103rem;
+        background-color: #FFFFFF;
+        margin: auto;
+        padding: 10px 20px;
+        width: 19rem
+    }
+
+    .flat-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .today-deals1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 19rem
+    }
+
+    .flex-boxes {
+        display: flex;
+        justify-content: space-evenly;
+        height: 53rem;
+        margin-bottom: 1.5rem;
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+    .nav-signin {
+        position: relative;
+        bottom: 4rem;
+        left: 29vw;
+    }
+
+    .logo1 {
+        height: 50px;
+        width: 128px;
+        background-size: cover;
+        margin-right: 1rem;
+        background-image: url('Amazon-Logo.png');
+        position: relative;
+        top: 50px;
+        right: 20rem;
+    }
+}
